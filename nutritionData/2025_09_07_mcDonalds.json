@@ -1,0 +1,37 @@
+[ {
+  "name" : "McRib®",
+  "kcal" : "554kcal",
+  "fat" : "28g",
+  "carbohydrates" : "45g",
+  "sugars" : "12g",
+  "protein" : "30g",
+  "salt" : "3g",
+  "created" : "2025-09-07T16:45:17.681346400"
+}, {
+  "name" : "McCrispy® Cheddari ja peekoniga",
+  "kcal" : "538kcal",
+  "fat" : "23g",
+  "carbohydrates" : "56g",
+  "sugars" : "8.4g",
+  "protein" : "26g",
+  "salt" : "2.5g",
+  "created" : "2025-09-07T16:45:18.466755700"
+}, {
+  "name" : "Suured McShaker™ paprikamaitselised friikartulid",
+  "kcal" : "442kcal",
+  "fat" : "21g",
+  "carbohydrates" : "56g",
+  "sugars" : "1.0g",
+  "protein" : "5.4g",
+  "salt" : "1.4g",
+  "created" : "2025-09-07T16:45:20.337831300"
+}, {
+  "name" : "Keskmised McShaker™ paprikamaitselised friikartulid",
+  "kcal" : "338kcal",
+  "fat" : "16g",
+  "carbohydrates" : "43g",
+  "sugars" : "0.9g",
+  "protein" : "4.1g",
+  "salt" : "1.14g",
+  "created" : "2025-09-07T16:45:21.150273300"
+} ]

@@ -15,7 +15,6 @@ public class Main {
 
     static public void startScraper(){
         System.out.println("started");
-        List<String> urls = FileReader.read("scraperURLs/mcDonalds.txt");
-        System.out.println(urls);
+        McDonaldData.run();
     }
 }
